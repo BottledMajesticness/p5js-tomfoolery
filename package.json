@@ -1,0 +1,19 @@
+{
+  "name": "p5js-tomfoolery",
+  "version": "1.0.0",
+  "description": "This is a crude attempt at making/remaking all of the Coding Train's Coding Challenges in p5js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BottledMajesticness/p5js-tomfoolery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BottledMajesticness/p5js-tomfoolery/issues"
+  },
+  "homepage": "https://github.com/BottledMajesticness/p5js-tomfoolery#readme"
+}
